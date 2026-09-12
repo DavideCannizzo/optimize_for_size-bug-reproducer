@@ -1,0 +1,10 @@
+## File system
+.DS_Store
+desktop.ini
+$RECYCLE.BIN
+
+## Build
+/target
+
+## Internal Compiler Error (ICE) reports
+rustc-ice-*.txt

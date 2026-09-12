@@ -1,0 +1,6 @@
+
+[package]
+name = "optimize_for_size-bug-reproducer"
+version = "0.1.0"
+authors = ["Davide Cannizzo <me@davidecannizzo.dev>"]
+edition = "2024"
